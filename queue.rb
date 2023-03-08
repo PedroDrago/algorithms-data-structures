@@ -8,7 +8,7 @@ end
 
 
 
-class LinkedList
+class Queue
   def initialize
     @head = nil
     @tail = nil
@@ -53,7 +53,7 @@ class LinkedList
 
 end
 
-ll = LinkedList.new
+ll = Queue.new
 ll.enqueue('first item to join')
 ll.enqueue('second item to join')
 p ll
