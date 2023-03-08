@@ -3,3 +3,7 @@
 This repository is destinated to the algorithms I write while studying algorithms and data structures.
 
 I may write the same algorithm/DS in multiple languages to see the difference between their applications.
+
+
+TO-DO:
+- Refactor stack. Too much if statements wrote as blocks.
