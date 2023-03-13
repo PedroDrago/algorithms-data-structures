@@ -7,3 +7,4 @@ I may write the same algorithm/DS in multiple languages to see the difference be
 
 TO-DO:
 - Refactor stack. Too much if statements wrote as blocks.
+- Stack and Queue in javascript.
